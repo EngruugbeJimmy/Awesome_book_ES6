@@ -60,14 +60,12 @@ To get a local copy up and running follow these simple example steps.
 - Internet connection
 - A github account
 
-
-
 ## Author
 ### 🧑🏻 Author1
 - GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
 - Twitter: [@abbaJdev](https://twitter.com/abbaJdev)
 - LinkedIn: [abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
-- 
+
 ### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page.
