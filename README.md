@@ -33,7 +33,7 @@ In this project, we built a basic website that allows users to add/remove books 
 </P>
 
 ## Live Demo (if available)
-Live Demo [Link](#)
+Live Demo [Link](https://engruugbejimmy.github.io/Awesome_book_ES6/)
 
 ## Getting Started
 Simply you can open index.html file with any browser and, you will see the home page.
