@@ -25,6 +25,14 @@ In this project, we built a basic website that allows users to add/remove books 
 - [x] Download the script and save it to your project.
 - [x] Import it as a module.
 
+
+## Screenshots
+
+<h3 align="center">Screenhot</h3>
+<p align="center">
+  <img width="375" src="screenshots/mobile_demo.png">
+</P>
+
 ## Live Demo (if available)
 Live Demo [Link](#)
 
